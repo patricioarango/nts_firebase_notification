@@ -21,10 +21,10 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			</feature>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_app_id">naught-to-sixty</string>
+			<string name="google_app_id">401824998671</string>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_api_key">AIzaSyAkxB1rLDpTZAhCshskvh5Tq8_ujdtheKQ</string>
+			<string name="google_api_key">AIzaSyD2PzScF-ihOBqL6hF3U5dDaUL6qo-pSPg</string>
 		</config-file>
 		<config-file target="AndroidManifest.xml" parent="/*">
 				<uses-permission android:name="android.permission.INTERNET" />

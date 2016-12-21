@@ -24,7 +24,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			<string name="google_app_id">naught-to-sixty</string>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_api_key">AIzaSyD2PzScF-ihOBqL6hF3U5dDaUL6qo-pSPg</string>
+			<string name="google_api_key">AIzaSyAkxB1rLDpTZAhCshskvh5Tq8_ujdtheKQ</string>
 		</config-file>
 		<config-file target="AndroidManifest.xml" parent="/*">
 				<uses-permission android:name="android.permission.INTERNET" />
